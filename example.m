@@ -1,3 +1,7 @@
+% https://www.mathworks.com/help/gads/ga.html
+% https://www.mathworks.com/help/gads/genetic-algorithm-options.html
+% https://www.mathworks.com/help/gads/gaoptimset.html
+
 BOUNDS = [
 -4 4;
 -4 4
